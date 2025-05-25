@@ -8,7 +8,7 @@ Proyek ini menggunakan data dari set data Kaggle berikut ini:
 
 Dataset Bentuk Wajah ## Dataset Bentuk Wajah
 * **Sumber:** [Dataset Bentuk Wajah](https://www.kaggle.com/datasets/niten19/face-shape-dataset)
-* Deskripsi:** Dataset ini terdiri dari gambar yang dilabeli dengan berbagai bentuk wajah. Dataset ini digunakan untuk tugas-tugas yang berkaitan dengan pengenalan dan klasifikasi bentuk wajah.
+* Deskripsi:** Dataset ini terdiri dari gambar yang dilabeli dengan berbagai bentuk wajah (5 kelas). Dataset ini digunakan untuk tugas-tugas yang berkaitan dengan pengenalan dan klasifikasi bentuk wajah.
 
 ---
 
